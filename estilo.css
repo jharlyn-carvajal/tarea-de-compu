@@ -1,0 +1,34 @@
+body{
+    background-image: url(imagen.jpg);
+} 
+#titulo{
+    color: rgb(139, 54, 172);
+   /*border: 5px rgb(213, 167, 135) solid;   pone borde al texto*/
+   border-style: solid;
+   border-color: rgb(210, 115, 214);
+   border-radius: 5px;
+   text-shadow: 2px 4px 4px rgb(94, 87, 87);
+}
+
+
+#frace{
+    color: rgb(122, 77, 164);
+   font-family:cursive ;
+   text-shadow: 2px 4px 4px rgb(94, 87, 87);
+}
+#h2{
+    color: rgb(149, 75, 156);
+    text-shadow: 2px 4px 4px rgb(94, 87, 87);
+}
+#ima{
+    height: 150px; 
+    width: 200px;
+}
+#h3{
+    color: rgb(147, 91, 179);
+    text-shadow: 2px 4px 4px rgb(94, 87, 87);
+}
+#h4{
+    color: rgb(109, 33, 129);
+    text-shadow: 2px 4px 4px rgb(94, 87, 87);
+}
